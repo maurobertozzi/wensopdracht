@@ -1,9 +1,9 @@
 # wensopdracht
 
 features <br>
-lijn dikte aanpassen
-lokaal saven 
-online saven
-kleuren palet
-random kleuren
+lijn dikte aanpassen<br>
+lokaal saven <br>
+online saven<br>
+kleuren palet<br>
+random kleuren<br>
 
