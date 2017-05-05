@@ -1,6 +1,6 @@
 # wensopdracht
 
-features 
+features <br>
 lijn dikte aanpassen
 lokaal saven 
 online saven
