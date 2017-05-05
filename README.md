@@ -1,6 +1,6 @@
 # wensopdracht
 
-features <br>
+features: <br>
 lijn dikte aanpassen<br>
 lokaal saven <br>
 online saven<br>
