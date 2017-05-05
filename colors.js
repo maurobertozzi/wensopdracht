@@ -1,5 +1,14 @@
-var colors = ['black', 'grey', 'white', 'red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet',]
-
+var color1 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color2 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color3 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color4 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color5 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color6 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color7 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color8 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color9 = "#"+((1<<24)*Math.random()|0).toString(16)
+var color10 = "#"+((1<<24)*Math.random()|0).toString(16)
+var colors = [color1, color2, color3, color4, color5, color6, color7, color8, color9, color10]
 
 for(var i=0, n=colors.length;i<n;i++){
 	var swatch = document.createElement('div');
